@@ -1,5 +1,8 @@
 # TravelEase — Personalized Travel Itinerary Planner 🌍✈️
 
+> **Live Demo:** [https://pranshu24-10.github.io/travelItinery/](https://pranshu24-10.github.io/travelItinery/)  
+> **GitHub Repository:** [https://github.com/pranshu24-10/travelItinery](https://github.com/pranshu24-10/travelItinery)  
+
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
