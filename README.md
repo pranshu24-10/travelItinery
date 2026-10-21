@@ -105,8 +105,8 @@ flowchart TD
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/pranshu24-10/travelItinery.git
-cd travelItinery
+git clone https://github.com/pranshu24-10/travellitnery.git
+cd travellitnery
 ```
 
 ### 2. Backend Setup
