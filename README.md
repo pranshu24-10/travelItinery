@@ -105,7 +105,7 @@ flowchart TD
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/mohini-yadav10/travelItinery.git
+git clone https://github.com/pranshu24-10/travelItinery.git
 cd travelItinery
 ```
 
